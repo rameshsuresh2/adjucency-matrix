@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-  int n1,n2,i,j,o,n,a[10][10];
+  int n1,n2,i,j,o,n,a[10][10]={0};
   printf("Enter the number of connections : ");
   scanf("%d",&n);
   do {
